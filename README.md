@@ -2,7 +2,7 @@
 
 A fun, lightweight, and responsive **Tic Tac Toe** game built using HTML, CSS, and JavaScript. Challenge your friends or test your skills against yourself in this classic game with a modern twist!
 
-![Tic Tac Toe Screenshot]("C:\Users\garg2\OneDrive\Pictures\Screenshots\Screenshot 2025-07-18 105953.png") <!-- Replace with your screenshot link -->
+![Tic Tac Toe Screenshot]("Image Of Game.png") <!-- Replace with your screenshot link -->
 
 ---
 
